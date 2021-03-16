@@ -1,0 +1,53 @@
+#pane-container {
+    width: 82%;
+    height: 573px;
+    background-color: #ced4da;
+    position:absolute;
+    float: left;
+    left:18.5%;
+    top: 63px;
+}
+.container {
+    padding: 0;
+}
+
+#tabContainer {
+    background-color: #98c1d9;
+    height:50%;
+    width:80%;
+    position:relative;
+    top:120px;
+    left:7%;
+    color: black;
+}
+
+.body {
+    color:black;
+}
+
+#leftnavHeader {
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    float: left;
+    top:50px;
+    width:80%;
+    left:10%;
+}
+
+#sidenavContainer {
+    background-color: #98c1d9;
+    height:573px;
+    width: 18%;
+    position: absolute;
+    float:left;
+    left:0px;
+    top: 63px;
+}
+
+
+#idTab, #deviceTab, #parameterTab {
+    position:relative;
+    top:0px;
+    margin-top: 0px;
+}

@@ -1,0 +1,63 @@
+body{
+  width:100vw;
+  height:100vh;
+}
+#footer{
+    background-color: #040a41;
+    height: 21px;
+    width: 100vw;
+    position:absolute;
+    bottom:0;
+    color: white;
+    font-size: 12px;
+    padding: 0;
+    justify-content: center;
+  }
+
+  #header {
+    background-color: #3d5a80;
+    width: 100%;
+    height:63px;
+    color:white;
+    text-align: center;
+    justify-content: center;
+    position:absolute;
+    top:0px;
+    padding: 0;
+  }
+
+  #brandName {
+      position:absolute;
+      color: white;
+      text-align: center;
+      align-items: center;
+      font-weight: bold;
+      font-size: 30px;
+  }
+
+  #Profile {
+      color: white;
+      font-weight: bold;
+  }
+
+  .rightMenu{
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .more {
+    font-weight: bold;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    cursor: pointer;
+  }
+
+  .sign-in {
+    font-weight: bold;
+    position: absolute;
+    right:20px;
+    color: blanchedalmond;
+  }

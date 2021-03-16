@@ -1,0 +1,32 @@
+
+.container {
+    padding: 0;
+}
+
+#smallContainer {
+    width:96%;
+    height: 540px;
+    background-color: #e9ecef;
+    float:left;
+    position:absolute;
+    left: 20px;
+    top: 20px;
+}
+
+#viewParameterTab, #addParameterTab, #updateParameterTab {
+    font-size: 14px;
+    font-family: 'Open-Sans','sans-serif';
+}
+
+#viewParameterLabel, #addParameterLabel, #updateParameterLabel {
+    font-size: 18px;
+    font-weight: bold;
+    position: absolute;
+    float: left;
+    top: 50px;
+}
+
+#viewParameterLabel, #updateParameterLabel, #addParameterLabel {
+    left:450px;
+}
+

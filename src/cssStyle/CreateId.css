@@ -1,0 +1,92 @@
+
+.container {
+    padding: 0;
+    margin:0;
+}
+
+#smallerContainer {
+    width:96%;
+    height: 540px;
+    background-color: #e9ecef;
+    float:left;
+    position:relative;
+    left: 20px;
+    top: 20px;
+}
+
+#createIdTitle {
+    font-size: 20px;
+    float:left;
+    position: absolute;
+    left: 350px ;
+    top: 10px;
+    font-weight: bold;
+}
+
+.dropdownMenu {
+    font-size: 16px;
+    float:left;
+    position: absolute;
+    font-weight:bold;
+}
+
+#deviceMenu {
+    top: 110px;
+    left: 23% ;
+}
+
+#parameterMenu {
+    top: 150px;
+    left:20.6% ;
+}
+
+
+
+#idSubmitButton {
+    width: 100px;
+    height:40px;
+    background-color: #ee6c4d;
+    border-color: #ff8f75;
+    border-style: double;
+    color: white;
+    border-radius: 10px;
+    position: absolute;
+    top: 130px;
+    left: 55%;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#responseArea {
+    width: 60%;
+    height:40%;
+    position: absolute;
+    top: 275px;
+    float:left;
+    left:20%;
+    border-width: 0px;
+    background-color:white;
+
+}
+
+#textArea {
+    width:100%;
+   height: 100%; 
+}
+
+
+#copyCard {
+    width:60%;
+    height:40%;
+    position:absolute;
+    top:250px;
+    left:200px;
+}
+
+#copyButton {
+    position: absolute;
+    right: 14px;
+    top:14px;
+    font-size: 22px;;
+}
+

@@ -1,0 +1,84 @@
+.container {
+    padding: 0;
+}
+
+#smallContainer {
+    width:96%;
+    height: 540px;
+    background-color: #e9ecef;
+    float:left;
+    position:relative;
+    left: 20px;
+    top: 20px;
+
+}
+
+
+#viewTabHeader, #addTabHeader, #updateTabHeader {
+    font-size: 18px;
+    font-weight: bold;
+    position: absolute;
+    float: left;
+    top: 50px;
+}
+
+#viewTabHeader, #updateTabHeader {
+    left:400px;
+}
+
+#addTabHeader {
+    left: 350px
+}
+
+#addDeviceForm {
+    position:absolute;
+    top: 60px;
+    width:200px;
+    height:200px;
+    left:400px;
+}
+
+#addDeviceSubmitButton {
+    background-color: #ee6c4d;
+    border-color: #ff8f75;
+    border-style: double;
+    color: white;
+    border-radius: 10px;
+    position: relative;
+    float: left;
+    left: 10px;
+    top: 30px;
+    font-size: 15px;
+    width: 100px;
+    height:40px;
+    font-weight: bold;
+}
+
+#descTextbar , #nameTextbar {
+    font-size: 12px;
+    width: 300px;
+}
+
+#viewTab, #addTab, #updateTab {
+    font-size: 14px;
+    font-family: 'Open-Sans','sans-serif';
+}
+
+
+#descLabel , #nameLabel {
+    font-size: 16x;
+    font-family: 'Open-Sans','sans-serif';
+}
+
+#updateDeviceForm {
+    position:absolute;
+    top: 60px;
+    width:200px;
+    height:200px;
+    left:400px;
+}
+
+#addDeviceType {
+    font-size: 16x;
+    font-family: 'Open-Sans','sans-serif';
+}

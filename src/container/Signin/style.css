@@ -1,0 +1,51 @@
+.body{
+    background-color: #ced4da;
+}
+.form {
+    position: absolute;
+    top: 20px;
+    left:100px;
+    width: 210px;
+    color:rgb(14, 14, 230);
+    font-size: 16px;
+    font-family: 'Open-Sans','sans-serif';
+
+}
+
+#signin-div {
+    position:absolute;
+    top:100px;
+    left:35%;
+    width:400px;
+    height:500px;
+    background-color: #e9ecef;
+    border: 2px solid #293241;
+    border-radius: 15px;
+
+}
+
+.primary {
+    width: 100px;
+    height:40px;
+    background-color: #ee6c4d;
+    border-color: #ff8f75;
+    border-style: double;
+    color: white;
+    border-radius: 10px;
+    position: relative;
+    top: 30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#register {
+    position: relative;
+    top:40px;
+    font-size: 20px;
+}
+
+#register-text {
+    font-size: 16px;
+    color:black;
+    top:40px;
+}

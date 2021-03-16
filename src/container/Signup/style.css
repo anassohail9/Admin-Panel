@@ -1,0 +1,43 @@
+.signup-form {
+    position: absolute;
+    top: 20px;
+    left:100px;
+    width: 230px;
+    color:rgb(14, 14, 230);
+    font-size: 16px;
+    font-family: 'Open-Sans','sans-serif';
+}
+
+.row{ background-color: black;}
+#signup-section {
+    width:400px;
+    height:500px;
+    position: absolute;
+    left:35%;
+    top:100px;
+    background-color: #e9ecef;
+    border: 2px solid #293241;
+    border-radius: 15px;
+}
+
+#signupSubmitButton {
+    width: 100px;
+    height:40px;
+    background-color: #ee6c4d;
+    border-color: #ff8f75;
+    border-style: double;
+    color: white;
+    border-radius: 10px;
+    position: relative;
+    top: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#signin-label {
+    position: relative;
+    top:30px;
+    left:0%;
+    color:black;
+
+}
